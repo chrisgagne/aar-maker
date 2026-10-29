@@ -13,6 +13,7 @@
   "repository": "https://github.com/chrisgagne/aar-maker",
   "license": "MIT",
   "privacyPolicyUrl": "https://aar.groundedforge.com/privacy",
+  "termsOfServiceUrl": "https://github.com/chrisgagne/grounded-forge/blob/main/DISCLAIMER.md",
   "keywords": [
     "after-action-review",
     "postmortem",

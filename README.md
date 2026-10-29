@@ -2,8 +2,6 @@
 
 Run blameless after-action reviews, postmortems and incident reviews in Claude, from an open library of 22 cited sources.
 
-![AAR Maker](icon.svg)
-
 AAR Maker takes you through a review one phase at a time: the timeline, why decisions made sense at the time, contributing factors, and actions with owners. Its method draws on US Army TC 25-20, the US Forest Service Learning Review Guide, the NHS Just Culture Guide, the DOE human performance handbooks, the Columbia accident report and others. Every claim cites the source it came from.
 
 ## What's in the plugin
